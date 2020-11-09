@@ -7,8 +7,4 @@ avatar: /images/mack-mansouri.jpg
 social:
   - title: github
     url: https://github.com/ClemSau
-  - title: linkedin
-    url: https://www.linkedin.com/in/cl%C3%A9ment-sauvage-867b0a194/
-  - title: website
-    url: https://clementsauvage.com/
 ---
