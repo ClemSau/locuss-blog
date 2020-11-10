@@ -1,4 +1,4 @@
-baseURL: "https://locuss.io/blog"
+baseURL: ""
 languageCode: "en-us"
 title: "Hugo Novela"
 pygmentsstyle: 'monokai'
