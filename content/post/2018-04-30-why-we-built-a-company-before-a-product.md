@@ -1,7 +1,7 @@
 ---
 title: Why we built a company before building a platform
-date: 2018-04-29T22:00:00+00:00
-hero: "/images/hero-6.jpg"
+date: 2018-04-29T22:00:00.000+00:00
+hero: "/blog/images/stephen-leonardi-ejyvzrsuscm-unsplash.jpg"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
 timeToRead: 3
